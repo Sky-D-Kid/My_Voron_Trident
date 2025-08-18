@@ -1,10 +1,10 @@
-##Formbot Kit Mods:
+## Formbot Kit Mods:
 - CAN BUS
 - TAP
 - 
 
 
-##Extra Mods installed:
+## Extra Mods installed:
 - Inverted Electronics
 - Beefy Symmetrical Idlers
 - 
